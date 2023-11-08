@@ -1,4 +1,5 @@
-### Hi there 👋
+![Banner Image](https://github.com/uhKayla/uhKayla/blob/184ed4c6e3e881ce4dcd79e5ff9449043d3522b0/acid-banner-21-9-1440p.png "Banner")
+
 
 <!--
 **uhKayla/uhKayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
